@@ -1,0 +1,2 @@
+2019-11-25 06:59:02,255 : Test time 08h 03m 01s, Testing started
+2019-11-25 06:59:02,256 : Test time 08h 03m 01s Epoch 54 TEST FINISH Avg dis: 0.0

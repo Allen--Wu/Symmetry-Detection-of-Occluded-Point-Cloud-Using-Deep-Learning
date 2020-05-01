@@ -9,3 +9,6 @@ Python 3.6, PyTorch 0.4.1
 
 ## Running
 `sh experiments/scripts/train_ycb.sh`
+
+## Symmetries
+The symmetries of the objects are manually annotated in >symmetries.txt

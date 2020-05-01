@@ -11,4 +11,4 @@ Python 3.6, PyTorch 0.4.1
 `sh experiments/scripts/train_ycb.sh`
 
 ## Symmetries
-The symmetries of the objects are manually annotated in >symmetries.txt
+The symmetries of the objects are manually annotated in symmetries.txt, and further following the order of the circumference for better results in symmetries_orders.txt.

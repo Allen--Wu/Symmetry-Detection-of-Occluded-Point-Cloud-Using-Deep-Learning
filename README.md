@@ -15,3 +15,6 @@ Python 3.6, PyTorch 0.4.1
 
 ## Symmetries
 The symmetries of the standalone YCB objects are manually annotated in `symmetries.txt`, and adapted to decreasing order of the circumference of symmetry planes for better results in `symmetries_orders.txt`.
+
+## Supplementary Repo
+Our code is adapted from https://github.com/j96w/DenseFusion, in case of missing files and checkpoints, please refer to that repo.
